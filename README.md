@@ -3,7 +3,7 @@
 ## I'm a currently on my journey to become a Developer.
 
 - 👨‍🎓 I’m currently learning programming at [Codecool][codecool]
-- 🥅 202 Goals: Finish Codecool and find a Developer position
+- 🥅 2022 Goals: Finish Codecool and find a Developer position
 - ⚡ Fun fact: I love doing yoga, listening to music and learning new things
 
 ### Connect with me:
